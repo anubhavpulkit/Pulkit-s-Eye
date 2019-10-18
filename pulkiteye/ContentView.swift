@@ -71,7 +71,7 @@ struct ContentView: View {
     Spacer()
     //target row
         HStack {
-            Text("Put the bully eye close as you can:").modifier(labelStyle())
+            Text("Put the Pulkit eye close as you can:").modifier(labelStyle())
                
      Text("\(self.target)").modifier(valueStyle())
         }
