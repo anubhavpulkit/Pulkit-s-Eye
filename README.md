@@ -3,7 +3,7 @@
 
 >My very first iOS game build using Swift 5. It's based on this amazing tutorial by Ray Wenderlich: [Your First iOS App](https://www.raywenderlich.com/ios/learn/)
 
-![poster](img.png)
+![poster](img1.png)
 
 # What is Pulkit's Eye?
 This game challenges the user to slide the slider as close as possible to the
